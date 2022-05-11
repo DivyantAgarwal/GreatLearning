@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// adding one line comment
+
 public class SwitchDemo{
 	public static void main(String[] args) {
 		Scanner in = new Scanner(System.in);
